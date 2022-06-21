@@ -6,6 +6,7 @@
 [外卖套餐搭配的探索和应用](https://tech.meituan.com/2021/05/27/set-meal-recommendation.html)</br>
 [美团商品知识图谱的构建及应用](https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html)</br>
 [美团大脑：知识图谱的建模方法及其应用](https://tech.meituan.com/2018/11/01/meituan-ai-nlp.html)</br>
+[本地生活综合性需求图谱的构建及应用](https://tech.meituan.com/2021/07/15/construction-and-application-of-lifestyle-general-needs-net.html)</br>
 
 ## 翻译距离模型
 [融合事实信息的知识图谱嵌入——翻译距离模型](https://www.omegaxyz.com/2020/01/12/kge-translational-distance-models/)</br>
