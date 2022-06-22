@@ -15,3 +15,7 @@
 [概述](https://zhuanlan.zhihu.com/p/339053474)</br>
 [知识图谱表示学习及应用](https://zhuanlan.zhihu.com/p/347578671)</br>
 [知识图谱嵌入技术浅析](https://zhuanlan.zhihu.com/p/112222319)</br>
+
+## 刘焕勇
+[刘焕勇主页（综合页）](https://liuhuanyong.github.io/)</br>
+[基于医疗知识图谱的智能问答系统](https://github.com/liuhuanyong/QASystemOnMedicalKG)</br>
