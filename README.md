@@ -15,6 +15,11 @@
 [概述](https://zhuanlan.zhihu.com/p/339053474)</br>
 [知识图谱表示学习及应用](https://zhuanlan.zhihu.com/p/347578671)</br>
 [知识图谱嵌入技术浅析](https://zhuanlan.zhihu.com/p/112222319)</br>
+### 知识图谱专栏
+[知识图谱入门系列-搬运论文，图神经网络相关](https://www.zhihu.com/column/c_1444217987779325952)</br>
+[NLP、知识图谱的相关知识收集与分享](https://www.zhihu.com/column/c_1292887950884102144)</br>
+[知识图谱入门之路-知识图谱在读PhD，目前关注KBQA](https://www.zhihu.com/column/c_1257041630369779712)</br>
+[知识图谱入门笔记-自写](https://www.zhihu.com/column/c_211846834)</br>
 
 ## 刘焕勇
 [刘焕勇主页（综合页）](https://liuhuanyong.github.io/)</br>
