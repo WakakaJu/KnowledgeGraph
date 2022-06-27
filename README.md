@@ -24,3 +24,6 @@
 ## 刘焕勇
 [刘焕勇主页（综合页）](https://liuhuanyong.github.io/)</br>
 [基于医疗知识图谱的智能问答系统](https://github.com/liuhuanyong/QASystemOnMedicalKG)</br>
+
+# 大规模矩阵计算与存储
+[Google在WWW2007上发表的《Scaling Up All Pairs Similarity Search》解读](https://www.it610.com/article/1304766583133999104.htm)</br>
