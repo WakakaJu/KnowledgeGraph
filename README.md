@@ -8,6 +8,9 @@
 [美团大脑：知识图谱的建模方法及其应用](https://tech.meituan.com/2018/11/01/meituan-ai-nlp.html)</br>
 [本地生活综合性需求图谱的构建及应用](https://tech.meituan.com/2021/07/15/construction-and-application-of-lifestyle-general-needs-net.html)</br>
 
+## 阿里千亿级
+[陈强：阿里千亿级大规模数字商业知识图谱助力业务增长](https://mp.weixin.qq.com/s/CcOyirw8WDPK1SS5IK4g0w)</br>
+
 ## 翻译距离模型
 [融合事实信息的知识图谱嵌入——翻译距离模型](https://www.omegaxyz.com/2020/01/12/kge-translational-distance-models/)</br>
 
